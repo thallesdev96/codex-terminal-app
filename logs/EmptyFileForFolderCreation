@@ -1,0 +1,4 @@
+Just an empty file to allow folder creation in version control systems
+// This file is intentionally left blank to ensure that the 'logs' directory is tracked in version control systems.
+// It serves as a placeholder to allow the creation of the 'logs' folder in repositories
+// that do not support empty directories.
